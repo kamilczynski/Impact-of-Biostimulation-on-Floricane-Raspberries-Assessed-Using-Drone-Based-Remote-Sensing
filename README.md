@@ -5,3 +5,4 @@ This repository contains mutlispectral data of the study
 
 ## Citation
 If you use this repository, please cite:
+https://www.preprints.org/manuscript/202604.1534
